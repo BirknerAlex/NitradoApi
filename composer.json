@@ -1,0 +1,22 @@
+{
+    "name": "BirknerAlex/NitradoApi",
+    "description": "This is a PHP 5.3 library for the unofficial Nitrado.net gameserver API",
+    "type": "library",
+    "keywords": ["api", "nitrado"],
+    "homepage": "https://github.com/BirknerAlex/NitradoApi",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "BirknerAlex",
+            "email": "alex.birkner@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}

@@ -7,6 +7,8 @@ This is a PHP 5.3 library for the unofficial Nitrado.net gameserver API. This AP
 
 **Note 2:** This library currently only supports the product type "Gameserver".
 
+**Note 3:** **Deprecated!** Nitrado is planning to release an public api 2014. After this release that api will be shutted down.
+
 Recommends
 ---------
 
