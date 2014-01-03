@@ -158,7 +158,6 @@ class NitradoApi {
         );
 
         if (!$this->executeCall("login", $post)) {
-            var_dump($this->getResponse());
             throw new ApiException("Login with user ".$user." has failed");
         }
     }
