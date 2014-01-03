@@ -26,8 +26,8 @@ Edit the composer.json and execute composer.phar update
 }
 ```
 
-Examples
---------
+All Methods
+-----------
 
 **All Methods for every product type**
 
