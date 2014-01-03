@@ -23,7 +23,7 @@ Edit the composer.json and execute composer.phar update
 ```
 {
     "require": {
-        "BirknerAlex/NitradoApi": "dev-master",
+        "tyrola/nitrado-api": "dev-master",
     }
 }
 ```
