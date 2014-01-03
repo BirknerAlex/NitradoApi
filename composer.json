@@ -1,5 +1,5 @@
 {
-    "name": "BirknerAlex/NitradoApi",
+    "name": "tyrola/nitrado-api",
     "description": "This is a PHP 5.3 library for the unofficial Nitrado.net gameserver API",
     "type": "library",
     "keywords": ["api", "nitrado"],
