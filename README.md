@@ -20,7 +20,7 @@ Installation
 ------------
 
 Edit the composer.json and execute composer.phar update
-```
+``` php
 {
     "require": {
         "tyrola/nitrado-api": "dev-master",
@@ -57,7 +57,7 @@ Examples
 --------
 
 **Using the API**
-```
+``` php
 <?php
 
 use at\Tyrola\Nitrado\Api\NitradoApi;
@@ -71,7 +71,7 @@ $nitrado = new NitradoApi("username", "yourPassword");
 ```
 
 **Get a list with all services**
-```
+``` php
 <?php
 
 // see "Using the API"
@@ -80,7 +80,7 @@ $nitrado->getServiceIds(); //array with service ids
 ```
 
 **Getting a specific Service object by service id**
-```
+``` php
 <?php
 
 // see "Using the API"
@@ -89,7 +89,7 @@ $service = $nitrado->getService($id); //Service object
 ```
 
 **Restart a Gameserver**
-```
+``` php
 <?php
 
 // see "Using the API"
